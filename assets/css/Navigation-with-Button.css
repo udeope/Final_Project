@@ -16,12 +16,6 @@
   }
 }
 
-@media screen and (max-width: 400px) {
-  .highlight-phone .container .row {
-    margin-top: -30px;
-  }
-}
-
 .navigation-clean-button .navbar-brand {
   font-weight: bold;
   color: inherit;
